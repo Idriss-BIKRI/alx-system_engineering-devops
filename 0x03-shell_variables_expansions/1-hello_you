@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd "hello us" /user
+pwd "hello us" /root
