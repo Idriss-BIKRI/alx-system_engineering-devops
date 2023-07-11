@@ -1,2 +1,2 @@
 #!/bin/bash
-cute -d ":" -fl,6 /etc/passwd | sort 
+cute --d ":" -fl,6 /etc/passwd | sort 
