@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd "hello user" > /root
+pwd "hello user" > Myuser
